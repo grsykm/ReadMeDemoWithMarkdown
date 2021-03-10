@@ -17,5 +17,7 @@ __This will also be bold__\
   * Item 2a  
   * Item 2b
 
-http://github.com - automatic!
+http://github.com - automatic!\
 [GitHub](http://github.com)
+
+As Grace Hopper said:> I’ve always been more interested> in the future than in the past.
